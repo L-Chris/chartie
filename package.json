@@ -1,0 +1,11 @@
+{
+  "name": "chartie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/L-Chris/chartie",
+  "author": "L-Chris <563303226@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.2.1"
+  }
+}
